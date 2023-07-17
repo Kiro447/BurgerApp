@@ -1,0 +1,5 @@
+C:\Users\jorda\Desktop\SEDC.BurgerApp\BurgerApp\BurgerApp\BurgerApp.Services\obj\Debug\net6.0\BurgerApp.Services.csproj.AssemblyReference.cache
+C:\Users\jorda\Desktop\SEDC.BurgerApp\BurgerApp\BurgerApp\BurgerApp.Services\obj\Debug\net6.0\BurgerApp.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jorda\Desktop\SEDC.BurgerApp\BurgerApp\BurgerApp\BurgerApp.Services\obj\Debug\net6.0\BurgerApp.Services.AssemblyInfoInputs.cache
+C:\Users\jorda\Desktop\SEDC.BurgerApp\BurgerApp\BurgerApp\BurgerApp.Services\obj\Debug\net6.0\BurgerApp.Services.AssemblyInfo.cs
+C:\Users\jorda\Desktop\SEDC.BurgerApp\BurgerApp\BurgerApp\BurgerApp.Services\obj\Debug\net6.0\BurgerApp.Services.csproj.CoreCompileInputs.cache

@@ -1,0 +1,12 @@
+C:\Users\jorda\Desktop\SEDC.BurgerApp\BurgerApp\BurgerApp\BurgerApp.Mappers\bin\Debug\net6.0\BurgerApp.Mappers.deps.json
+C:\Users\jorda\Desktop\SEDC.BurgerApp\BurgerApp\BurgerApp\BurgerApp.Mappers\bin\Debug\net6.0\BurgerApp.Mappers.dll
+C:\Users\jorda\Desktop\SEDC.BurgerApp\BurgerApp\BurgerApp\BurgerApp.Mappers\bin\Debug\net6.0\BurgerApp.Mappers.pdb
+C:\Users\jorda\Desktop\SEDC.BurgerApp\BurgerApp\BurgerApp\BurgerApp.Mappers\obj\Debug\net6.0\BurgerApp.Mappers.csproj.AssemblyReference.cache
+C:\Users\jorda\Desktop\SEDC.BurgerApp\BurgerApp\BurgerApp\BurgerApp.Mappers\obj\Debug\net6.0\BurgerApp.Mappers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jorda\Desktop\SEDC.BurgerApp\BurgerApp\BurgerApp\BurgerApp.Mappers\obj\Debug\net6.0\BurgerApp.Mappers.AssemblyInfoInputs.cache
+C:\Users\jorda\Desktop\SEDC.BurgerApp\BurgerApp\BurgerApp\BurgerApp.Mappers\obj\Debug\net6.0\BurgerApp.Mappers.AssemblyInfo.cs
+C:\Users\jorda\Desktop\SEDC.BurgerApp\BurgerApp\BurgerApp\BurgerApp.Mappers\obj\Debug\net6.0\BurgerApp.Mappers.csproj.CoreCompileInputs.cache
+C:\Users\jorda\Desktop\SEDC.BurgerApp\BurgerApp\BurgerApp\BurgerApp.Mappers\obj\Debug\net6.0\BurgerApp.Mappers.dll
+C:\Users\jorda\Desktop\SEDC.BurgerApp\BurgerApp\BurgerApp\BurgerApp.Mappers\obj\Debug\net6.0\refint\BurgerApp.Mappers.dll
+C:\Users\jorda\Desktop\SEDC.BurgerApp\BurgerApp\BurgerApp\BurgerApp.Mappers\obj\Debug\net6.0\BurgerApp.Mappers.pdb
+C:\Users\jorda\Desktop\SEDC.BurgerApp\BurgerApp\BurgerApp\BurgerApp.Mappers\obj\Debug\net6.0\ref\BurgerApp.Mappers.dll
